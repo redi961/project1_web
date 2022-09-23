@@ -1,0 +1,9 @@
+Git 리포지넌트 생성 후 cmd창에서 Clone 으로 폴더복사 후
+VS Code로 열기 할 시 자동으로 동기화됨
+좌측 탐색기창 3번째 창에서 Commit 및 동기화 관리 가능함
+변경내용동기화 (Push Origin Master와 동일한 기능)
+
+Ctrl+Shift+P -> 명령창 활성화 -> MarkDown 미리보기 활성화시 작업에 유용함 
+HTML 작업시 -> Html창에서 우클릭 후 Live Server 활성화
+* Beauty -> Ctrl + Shift + B
+Html의 주석 <!-- -->
